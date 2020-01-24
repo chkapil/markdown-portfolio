@@ -1,1 +1,1 @@
-Replace this with a list of your favorite things.
+- @octocat :+1: This PR looks great - it's ready to merge! :shipit:
